@@ -71,7 +71,6 @@ Bu proje, farklı e-posta gönderim yöntemlerini uygulamak için bir referans o
 - Spring Boot
 - JavaMail
 - Thymeleaf (veya diğer templating motorları)
-- AWS SDK (varsa)
-- SendGrid (varsa)
+- Apache commons
 
 
